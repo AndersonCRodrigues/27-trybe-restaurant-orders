@@ -31,4 +31,5 @@ class InventoryMapping:
 
     # Req 5.2
     def consume_recipe(self, recipe: Recipe) -> None:
+        # commit inicial
         pass
